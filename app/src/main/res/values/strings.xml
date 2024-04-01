@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mvpform</string>
+    <string name="nome">Nome</string>
+    <string name="cargo">Cargo</string>
+    <string name="cep">Cep</string>
+    <string name="endere_o">Endereço</string>
+    <string name="cidade">Cidade</string>
+    <string name="salvar">Salvar</string>
+    <string name="estado">Estado</string>
+    <string name="idade">Idade</string>
+    <string name="n_mero">Número</string>
+</resources>
